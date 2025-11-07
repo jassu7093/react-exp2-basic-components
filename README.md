@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🧪 React Experiment 2 — Basic Components (Header, Footer, Content)
 
 ## 📘 Objective
@@ -40,7 +40,7 @@ react-exp2-basic-components/
 ---
 
 ## 🚀 Setup Instructions
-```bash
+
 # Step 1: Create a new project
 npm create vite@latest react-exp2-basic-components -- --template react
 
